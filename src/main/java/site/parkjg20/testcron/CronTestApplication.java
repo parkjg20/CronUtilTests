@@ -1,3 +1,5 @@
+package site.parkjg20.testcron;
+
 import com.cronutils.mapper.CronMapper;
 import com.cronutils.model.Cron;
 import com.cronutils.model.CronType;
